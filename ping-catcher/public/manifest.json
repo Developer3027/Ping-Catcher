@@ -1,0 +1,8 @@
+{
+  "short_name": "Ping Catcher",
+  "name": "App to organize Slack user Pings",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
